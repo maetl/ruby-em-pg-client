@@ -4,6 +4,8 @@ rvm:
   - 1.9.3
   - 2.0.0
   - 2.1.0
+  - 2.2
+  - 2.3
 env:
   - PGVERSION=9.3 PGBUILD=9.3.4-1-linux-x64
   - PGVERSION=9.0 PGBUILD=9.0.17-1-linux-x64
